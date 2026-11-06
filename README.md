@@ -39,6 +39,10 @@ Abrí Urban Voice, pulsá **Activar licencia**, pegá la clave del correo de Urb
 - **USD 79 definitivo:** un pago, sin vencimiento mensual.
 - Después de una verificación válida podés trabajar hasta **7 días sin conexión**, sin superar el vencimiento de tu plan. La licencia definitiva también necesita verificaciones periódicas.
 
+Para actualizar tu tarjeta, consultar facturas o cancelar la renovación, entrá en [Gestionar mi suscripción](https://billing.stripe.com/p/login/7sYfZi1ag3HB9K3e0E2kw00) con el correo de tu compra. La cancelación detiene las próximas renovaciones; conservás el período ya pagado y sus 72 horas de gracia.
+
+Los precios base son en dólares estadounidenses y no incluyen los impuestos que correspondan. Stripe muestra el total antes de pagar y puede ofrecer una moneda local.
+
 La actualización conserva los presets del usuario. Si el instalador detecta dos copias del plugin, no las borres al azar: contactanos para identificar la que usa tu proyecto.
 
 ## Ayuda
